@@ -9,7 +9,9 @@ body {
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
 }
-
+.footer {
+  text-align: right;
+}
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -18,3 +20,32 @@ body {
 }
 
 /* Write all remaining styles here */
+p {
+  color: grey;
+}
+
+.heading {
+  color: rgb(152, 168, 162);
+  font-size: 4.5em;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+
+h2 {
+  color: rgb(114, 126, 122);
+  font-size: 2em;
+}
+
+img {
+  border: solid rgb(152, 168, 162) 5px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+
+
+
+
+
